@@ -1,0 +1,6 @@
+.idea
+env
+inventory/__pycache__
+inventory/requirements.txt
+payment/__pycache__
+payment/requirements.txt
